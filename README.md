@@ -312,7 +312,7 @@ LinkedIn profile analysis
 Career roadmap recommendations
 
 AI-generated cover letters
-
+![Image](https://github.com/user-attachments/assets/0d348088-bf75-4ad5-ac0a-505e2d28d0c4)
 👩‍💻 Author
 
 Sinchana TR
