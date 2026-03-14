@@ -3,6 +3,10 @@
 An intelligent AI-powered web application that analyzes resumes, evaluates ATS compatibility, extracts key skills, and recommends relevant job opportunities based on the candidate’s profile.
 
 This project leverages Natural Language Processing (NLP) and modern web technologies to assist job seekers in improving their resumes and identifying suitable career opportunities.
+![Image](https://github.com/user-attachments/assets/d1795775-4620-40c7-850a-37d868611eb2)
+
+![Image](https://github.com/user-attachments/assets/4affa3ec-4ef6-4082-be01-fb17638e0e86)
+![Image](https://github.com/user-attachments/assets/0d348088-bf75-4ad5-ac0a-505e2d28d0c4)
 
 📌 Project Overview
 
