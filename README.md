@@ -163,7 +163,7 @@ Node.js 18+
 Git (optional)
 
 Step 1 — Clone the Repository
-git clone https://github.com/Sinchana-TR2005/ai-resume-analyzer.git
+git clone https://github.com/Sinchana-TR2005/AI-Resume-Analyzer-Job-Finder
 cd ai-resume-analyzer
 
 Step 2 — Run the Backend
